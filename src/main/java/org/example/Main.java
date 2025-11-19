@@ -9,6 +9,8 @@ public class Main {
         //CanvasDemo.launch(CanvasDemo.class);
 
         //GraphicsDemo.launch(GraphicsDemo.class);
-        PlatformRunLaterDemo.launch(PlatformRunLaterDemo.class);
+        //PlatformRunLaterDemo.launch(PlatformRunLaterDemo.class);
+
+        VirtualPet.launch(VirtualPet.class);
     }
 }
